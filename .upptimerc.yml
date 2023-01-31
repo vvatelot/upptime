@@ -1,15 +1,18 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: vvatelot
+repo: upptime
 
 sites:
   - name: Ecoindex.fr website
     url: https://www.ecoindex.fr
+  - name: Ecoindex.fr Back For Front
+    url: https://bff.ecoindex.fr/health
+  - name: Ecoindex.fr Backend API
+    url: https://ecoindex.p.rapidapi.com/health
+    headers:
+      - "X-RapidAPI-Key": $RAPIDAPI_KEY
+      - "X-RapidAPI-Host": ecoindex.p.rapidapi.com
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
@@ -20,6 +23,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
