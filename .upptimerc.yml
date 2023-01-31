@@ -9,8 +9,8 @@ sites:
   - name: Ecoindex.fr Backend API
     url: https://ecoindex.p.rapidapi.com/health
     headers:
-      - "X-RapidAPI-Key": $RAPIDAPI_KEY
-      - "X-RapidAPI-Host": ecoindex.p.rapidapi.com
+      - "X-RapidAPI-Key: $RAPIDAPI_KEY"
+      - "X-RapidAPI-Host: ecoindex.p.rapidapi.com"
 
 status-website:
   baseUrl: /upptime
