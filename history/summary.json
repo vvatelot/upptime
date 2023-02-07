@@ -4,19 +4,19 @@
     "url": "https://www.ecoindex.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.ecoindex.fr.ico",
     "slug": "ecoindex-fr-website",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 993,
-    "timeDay": 1258,
-    "timeWeek": 995,
-    "timeMonth": 993,
-    "timeYear": 993,
+    "status": "up",
+    "uptime": "98.78%",
+    "uptimeDay": "91.31%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "98.78%",
+    "uptimeYear": "98.78%",
+    "time": 1019,
+    "timeDay": 1295,
+    "timeWeek": 1033,
+    "timeMonth": 1019,
+    "timeYear": 1019,
     "dailyMinutesDown": {
-      "2023-02-07": 12
+      "2023-02-07": 125
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://bff.ecoindex.fr/health",
     "icon": "https://icons.duckduckgo.com/ip3/bff.ecoindex.fr.ico",
     "slug": "ecoindex-fr-back-for-front",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 943,
-    "timeDay": 1280,
-    "timeWeek": 943,
-    "timeMonth": 943,
-    "timeYear": 943,
+    "status": "up",
+    "uptime": "98.77%",
+    "uptimeDay": "91.31%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "98.77%",
+    "uptimeYear": "98.77%",
+    "time": 958,
+    "timeDay": 1193,
+    "timeWeek": 964,
+    "timeMonth": 958,
+    "timeYear": 958,
     "dailyMinutesDown": {
-      "2023-02-07": 12
+      "2023-02-07": 125
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://ecoindex.p.rapidapi.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/ecoindex.p.rapidapi.com.ico",
     "slug": "ecoindex-fr-backend-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1771,
-    "timeDay": 956,
-    "timeWeek": 1771,
-    "timeMonth": 1771,
-    "timeYear": 1771,
+    "status": "up",
+    "uptime": "98.88%",
+    "uptimeDay": "92.12%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "98.88%",
+    "time": 1802,
+    "timeDay": 1351,
+    "timeWeek": 1740,
+    "timeMonth": 1802,
+    "timeYear": 1802,
     "dailyMinutesDown": {
-      "2023-02-07": 0
+      "2023-02-07": 113
     }
   }
 ]
