@@ -44,19 +44,19 @@
     "url": "https://ecoindex.p.rapidapi.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/ecoindex.p.rapidapi.com.ico",
     "slug": "ecoindex-fr-backend-api",
-    "status": "down",
-    "uptime": "98.89%",
-    "uptimeDay": "92.11%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "98.89%",
-    "uptimeYear": "98.89%",
-    "time": 1802,
-    "timeDay": 1351,
-    "timeWeek": 1719,
-    "timeMonth": 1802,
-    "timeYear": 1802,
+    "status": "up",
+    "uptime": "98.80%",
+    "uptimeDay": "91.41%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "98.80%",
+    "uptimeYear": "98.80%",
+    "time": 1824,
+    "timeDay": 1538,
+    "timeWeek": 1757,
+    "timeMonth": 1824,
+    "timeYear": 1824,
     "dailyMinutesDown": {
-      "2023-02-07": 113
+      "2023-02-07": 123
     }
   }
 ]
