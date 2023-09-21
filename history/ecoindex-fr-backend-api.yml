@@ -1,7 +1,7 @@
 url: https://ecoindex.p.rapidapi.com/health
-status: up
-code: 200
-responseTime: 1802
-lastUpdated: 2023-09-20T23:01:37.841Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-09-21T14:48:58.635Z
 startTime: 2023-01-31T11:19:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
