@@ -33,7 +33,7 @@
     "url": "https://bff.ecoindex.fr/health",
     "icon": "https://icons.duckduckgo.com/ip3/bff.ecoindex.fr.ico",
     "slug": "ecoindex-fr-back-for-front",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "92.88%",
     "uptimeWeek": "98.98%",
@@ -45,6 +45,7 @@
     "timeMonth": 1455,
     "timeYear": 990,
     "dailyMinutesDown": {
+      "2023-09-22": 0,
       "2023-09-21": 102,
       "2023-09-06": 133,
       "2023-09-03": 19,
