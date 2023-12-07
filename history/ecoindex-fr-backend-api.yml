@@ -1,7 +1,7 @@
-url: https://ecoindex.p.rapidapi.com/health
+url: https://api.ecoindex.fr/health
 status: up
 code: 200
-responseTime: 1782
-lastUpdated: 2023-12-07T06:56:41.798Z
+responseTime: 1506
+lastUpdated: 2023-12-07T08:45:07.156Z
 startTime: 2023-01-31T11:19:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
