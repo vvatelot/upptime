@@ -7,17 +7,14 @@ sites:
   - name: Ecoindex.fr Back For Front
     url: https://bff.ecoindex.fr/health
   - name: Ecoindex.fr Backend API
-    url: https://ecoindex.p.rapidapi.com/health
-    headers:
-      - "X-RapidAPI-Key: $RAPIDAPI_KEY"
-      - "X-RapidAPI-Host: ecoindex.p.rapidapi.com"
+    url: https://api.ecoindex.fr/health
 
 status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Monitoring Ecoindex.fr"
+  introMessage: Retrouvez les disponibilités des composants techniques du site ecoindex.fr
   navbar:
     - title: Status
       href: /
