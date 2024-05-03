@@ -1,7 +1,7 @@
 url: https://api.ecoindex.fr/health
-status: down
-code: 500
-responseTime: 1713
-lastUpdated: 2024-05-03T04:31:17.702Z
+status: up
+code: 200
+responseTime: 1760
+lastUpdated: 2024-05-03T04:39:39.440Z
 startTime: 2023-01-31T11:19:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
