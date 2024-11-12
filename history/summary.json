@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.42%",
-    "time": 1327,
-    "timeDay": 1251,
-    "timeWeek": 900,
-    "timeMonth": 957,
+    "uptimeYear": "98.69%",
+    "time": 1328,
+    "timeDay": 1258,
+    "timeWeek": 981,
+    "timeMonth": 964,
     "timeYear": 1314,
     "dailyMinutesDown": {
       "2024-10-08": 442,
@@ -30,8 +30,7 @@
       "2024-02-03": 346,
       "2024-02-01": 233,
       "2023-12-08": 22,
-      "2023-12-07": 63,
-      "2023-11-13": 730
+      "2023-12-07": 63
     }
   },
   {
@@ -44,12 +43,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.09%",
-    "time": 1344,
-    "timeDay": 1256,
-    "timeWeek": 722,
-    "timeMonth": 739,
-    "timeYear": 1147,
+    "uptimeYear": "98.36%",
+    "time": 1316,
+    "timeDay": 824,
+    "timeWeek": 764,
+    "timeMonth": 733,
+    "timeYear": 1146,
     "dailyMinutesDown": {
       "2024-10-08": 579,
       "2024-09-25": 23,
@@ -70,8 +69,7 @@
       "2024-02-03": 345,
       "2024-02-01": 355,
       "2023-12-07": 56,
-      "2023-11-14": 469,
-      "2023-11-13": 1440
+      "2023-11-14": 469
     }
   },
   {
@@ -80,16 +78,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ecoindex.fr.ico",
     "slug": "ecoindex-fr-backend-api",
     "status": "up",
-    "uptime": "98.69%",
+    "uptime": "98.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.07%",
-    "time": 2200,
-    "timeDay": 1957,
-    "timeWeek": 1748,
-    "timeMonth": 1700,
-    "timeYear": 1970,
+    "uptimeYear": "98.34%",
+    "time": 2157,
+    "timeDay": 1778,
+    "timeWeek": 1756,
+    "timeMonth": 1697,
+    "timeYear": 1973,
     "dailyMinutesDown": {
       "2024-10-08": 451,
       "2024-09-25": 23,
@@ -112,8 +110,7 @@
       "2024-02-03": 343,
       "2024-02-01": 354,
       "2023-12-07": 54,
-      "2023-11-14": 469,
-      "2023-11-13": 1440
+      "2023-11-14": 469
     }
   }
 ]
