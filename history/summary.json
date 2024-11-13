@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.69%",
+    "uptimeYear": "98.96%",
     "time": 1328,
-    "timeDay": 1258,
-    "timeWeek": 981,
-    "timeMonth": 964,
-    "timeYear": 1314,
+    "timeDay": 1138,
+    "timeWeek": 1025,
+    "timeMonth": 966,
+    "timeYear": 1313,
     "dailyMinutesDown": {
       "2024-10-08": 442,
       "2024-09-25": 24,
@@ -39,15 +39,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/bff.ecoindex.fr.ico",
     "slug": "ecoindex-fr-back-for-front",
     "status": "up",
-    "uptime": "98.73%",
+    "uptime": "98.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.36%",
-    "time": 1316,
-    "timeDay": 824,
-    "timeWeek": 764,
-    "timeMonth": 733,
+    "uptimeYear": "98.63%",
+    "time": 1315,
+    "timeDay": 1057,
+    "timeWeek": 834,
+    "timeMonth": 747,
     "timeYear": 1146,
     "dailyMinutesDown": {
       "2024-10-08": 579,
@@ -68,8 +68,7 @@
       "2024-02-04": 1008,
       "2024-02-03": 345,
       "2024-02-01": 355,
-      "2023-12-07": 56,
-      "2023-11-14": 469
+      "2023-12-07": 56
     }
   },
   {
@@ -82,12 +81,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.34%",
+    "uptimeYear": "98.62%",
     "time": 2157,
-    "timeDay": 1778,
-    "timeWeek": 1756,
-    "timeMonth": 1697,
-    "timeYear": 1973,
+    "timeDay": 1884,
+    "timeWeek": 1785,
+    "timeMonth": 1702,
+    "timeYear": 1976,
     "dailyMinutesDown": {
       "2024-10-08": 451,
       "2024-09-25": 23,
@@ -109,8 +108,7 @@
       "2024-02-04": 1008,
       "2024-02-03": 343,
       "2024-02-01": 354,
-      "2023-12-07": 54,
-      "2023-11-14": 469
+      "2023-12-07": 54
     }
   }
 ]
