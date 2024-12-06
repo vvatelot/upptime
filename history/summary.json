@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ecoindex.fr.ico",
     "slug": "ecoindex-fr-website",
     "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptime": "98.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.10%",
-    "time": 1303,
-    "timeDay": 790,
-    "timeWeek": 854,
-    "timeMonth": 991,
-    "timeYear": 1291,
+    "time": 1304,
+    "timeDay": 1081,
+    "timeWeek": 867,
+    "timeMonth": 1007,
+    "timeYear": 1293,
     "dailyMinutesDown": {
-      "2024-12-05": 7,
       "2024-10-08": 442,
       "2024-09-25": 24,
       "2024-06-04": 28,
@@ -30,8 +29,7 @@
       "2024-02-04": 970,
       "2024-02-03": 346,
       "2024-02-01": 233,
-      "2023-12-08": 22,
-      "2023-12-07": 63
+      "2023-12-08": 22
     }
   },
   {
@@ -46,10 +44,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.00%",
     "time": 1287,
-    "timeDay": 549,
-    "timeWeek": 632,
-    "timeMonth": 783,
-    "timeYear": 1146,
+    "timeDay": 882,
+    "timeWeek": 622,
+    "timeMonth": 792,
+    "timeYear": 1147,
     "dailyMinutesDown": {
       "2024-10-08": 579,
       "2024-09-25": 23,
@@ -68,8 +66,7 @@
       "2024-02-05": 241,
       "2024-02-04": 1008,
       "2024-02-03": 345,
-      "2024-02-01": 355,
-      "2023-12-07": 56
+      "2024-02-01": 355
     }
   },
   {
@@ -83,10 +80,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.98%",
-    "time": 2151,
-    "timeDay": 1657,
-    "timeWeek": 1714,
-    "timeMonth": 1738,
+    "time": 2152,
+    "timeDay": 2075,
+    "timeWeek": 1709,
+    "timeMonth": 1751,
     "timeYear": 1975,
     "dailyMinutesDown": {
       "2024-10-08": 451,
@@ -108,8 +105,7 @@
       "2024-02-05": 240,
       "2024-02-04": 1008,
       "2024-02-03": 343,
-      "2024-02-01": 354,
-      "2023-12-07": 54
+      "2024-02-01": 354
     }
   }
 ]
