@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ecoindex.fr.ico",
     "slug": "ecoindex-fr-website",
     "status": "up",
-    "uptime": "99.03%",
+    "uptime": "99.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.11%",
+    "uptimeYear": "99.16%",
     "time": 1252,
-    "timeDay": 766,
-    "timeWeek": 988,
-    "timeMonth": 960,
-    "timeYear": 1287,
+    "timeDay": 772,
+    "timeWeek": 949,
+    "timeMonth": 955,
+    "timeYear": 1288,
     "dailyMinutesDown": {
       "2025-01-20": 28,
       "2024-10-08": 442,
@@ -27,8 +27,7 @@
       "2024-02-14": 255,
       "2024-02-13": 209,
       "2024-02-05": 234,
-      "2024-02-04": 970,
-      "2024-02-03": 346
+      "2024-02-04": 970
     }
   },
   {
@@ -41,12 +40,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.00%",
-    "time": 1127,
-    "timeDay": 612,
-    "timeWeek": 2869,
-    "timeMonth": 2016,
-    "timeYear": 1211,
+    "uptimeYear": "99.06%",
+    "time": 1126,
+    "timeDay": 705,
+    "timeWeek": 2900,
+    "timeMonth": 2017,
+    "timeYear": 1213,
     "dailyMinutesDown": {
       "2025-01-20": 28,
       "2024-12-16": 29,
@@ -65,8 +64,7 @@
       "2024-02-14": 244,
       "2024-02-13": 209,
       "2024-02-05": 241,
-      "2024-02-04": 1008,
-      "2024-02-03": 345
+      "2024-02-04": 1008
     }
   },
   {
@@ -75,15 +73,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ecoindex.fr.ico",
     "slug": "ecoindex-fr-backend-api",
     "status": "up",
-    "uptime": "98.83%",
+    "uptime": "98.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "98.98%",
+    "uptimeYear": "99.05%",
     "time": 2112,
-    "timeDay": 1485,
-    "timeWeek": 1703,
-    "timeMonth": 1717,
+    "timeDay": 1679,
+    "timeWeek": 1696,
+    "timeMonth": 1716,
     "timeYear": 1987,
     "dailyMinutesDown": {
       "2025-01-20": 27,
@@ -105,8 +103,7 @@
       "2024-02-14": 236,
       "2024-02-13": 204,
       "2024-02-05": 240,
-      "2024-02-04": 1008,
-      "2024-02-03": 343
+      "2024-02-04": 1008
     }
   }
 ]
