@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ecoindex.fr.ico",
     "slug": "ecoindex-fr-website",
     "status": "up",
-    "uptime": "99.11%",
+    "uptime": "99.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
     "time": 1227,
-    "timeDay": 848,
-    "timeWeek": 846,
-    "timeMonth": 909,
-    "timeYear": 1296,
+    "timeDay": 673,
+    "timeWeek": 835,
+    "timeMonth": 902,
+    "timeYear": 1295,
     "dailyMinutesDown": {
       "2025-01-20": 28,
       "2024-10-08": 442,
@@ -36,9 +36,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
     "time": 1125,
-    "timeDay": 584,
-    "timeWeek": 625,
-    "timeMonth": 716,
+    "timeDay": 582,
+    "timeWeek": 628,
+    "timeMonth": 718,
     "timeYear": 1130,
     "dailyMinutesDown": {
       "2025-01-20": 28,
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.56%",
     "time": 1947,
-    "timeDay": 1730,
-    "timeWeek": 1697,
-    "timeMonth": 1725,
+    "timeDay": 1617,
+    "timeWeek": 1694,
+    "timeMonth": 1719,
     "timeYear": 1903,
     "dailyMinutesDown": {
       "2025-01-20": 27,
@@ -84,8 +84,7 @@
       "2024-05-12": 16,
       "2024-05-02": 16,
       "2024-04-17": 579,
-      "2024-04-16": 621,
-      "2024-04-09": 23
+      "2024-04-16": 621
     }
   }
 ]
