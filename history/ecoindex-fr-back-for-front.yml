@@ -1,7 +1,7 @@
 url: https://bff.ecoindex.fr/health
-status: up
-code: 200
-responseTime: 562
-lastUpdated: 2026-01-31T06:33:56.584Z
+status: down
+code: 503
+responseTime: 660
+lastUpdated: 2026-01-31T09:28:58.792Z
 startTime: 2023-01-31T11:19:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
