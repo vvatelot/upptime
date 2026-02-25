@@ -49,18 +49,19 @@
     "url": "https://bff.ecoindex.fr/health",
     "icon": "https://icons.duckduckgo.com/ip3/bff.ecoindex.fr.ico",
     "slug": "ecoindex-fr-back-for-front",
-    "status": "up",
+    "status": "down",
     "uptime": "98.19%",
-    "uptimeDay": "97.87%",
-    "uptimeWeek": "65.12%",
+    "uptimeDay": "97.86%",
+    "uptimeWeek": "71.86%",
     "uptimeMonth": "54.65%",
-    "uptimeYear": "94.44%",
-    "time": 1298,
-    "timeDay": 668,
-    "timeWeek": 736,
-    "timeMonth": 785,
-    "timeYear": 1355,
+    "uptimeYear": "94.45%",
+    "time": 1297,
+    "timeDay": 621,
+    "timeWeek": 718,
+    "timeMonth": 780,
+    "timeYear": 1353,
     "dailyMinutesDown": {
+      "2026-02-25": 0,
       "2026-02-24": 31,
       "2026-02-23": 29,
       "2026-02-20": 586,
@@ -120,7 +121,7 @@
       "2025-06-18": 577,
       "2025-05-16": 460,
       "2025-05-15": 637,
-      "2025-05-14": 35
+      "2025-05-14": 16
     }
   },
   {
