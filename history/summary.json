@@ -4,17 +4,17 @@
     "url": "https://www.ecoindex.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.ecoindex.fr.ico",
     "slug": "ecoindex-fr-website",
-    "status": "up",
+    "status": "down",
     "uptime": "98.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "86.45%",
-    "uptimeMonth": "96.17%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "86.34%",
+    "uptimeMonth": "96.15%",
     "uptimeYear": "98.13%",
-    "time": 1638,
-    "timeDay": 1007,
-    "timeWeek": 9131,
-    "timeMonth": 3875,
-    "timeYear": 1709,
+    "time": 1688,
+    "timeDay": 30422,
+    "timeWeek": 12422,
+    "timeMonth": 4710,
+    "timeYear": 1775,
     "dailyMinutesDown": {
       "2025-06-11": 19,
       "2025-06-16": 15,
@@ -46,7 +46,8 @@
       "2026-05-20": 297,
       "2026-05-19": 13,
       "2026-05-29": 648,
-      "2026-05-28": 718
+      "2026-05-28": 718,
+      "2026-06-03": 11
     }
   },
   {
@@ -54,19 +55,19 @@
     "url": "https://bff.ecoindex.fr/health",
     "icon": "https://icons.duckduckgo.com/ip3/bff.ecoindex.fr.ico",
     "slug": "ecoindex-fr-back-for-front",
-    "status": "up",
-    "uptime": "98.03%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "86.54%",
-    "uptimeMonth": "96.10%",
+    "status": "down",
+    "uptime": "98.04%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "86.52%",
+    "uptimeMonth": "96.09%",
     "uptimeYear": "93.44%",
     "time": 1327,
-    "timeDay": 1114,
-    "timeWeek": 727,
-    "timeMonth": 712,
-    "timeYear": 1183,
+    "timeDay": 0,
+    "timeWeek": 741,
+    "timeMonth": 716,
+    "timeYear": 1184,
     "dailyMinutesDown": {
-      "2025-07-05": 642,
+      "2025-07-05": 597,
       "2025-07-06": 260,
       "2025-08-19": 782,
       "2025-08-20": 418,
@@ -137,7 +138,8 @@
       "2026-05-20": 297,
       "2026-05-19": 4,
       "2026-05-29": 648,
-      "2026-05-28": 709
+      "2026-05-28": 709,
+      "2026-06-03": 2
     }
   },
   {
@@ -145,17 +147,17 @@
     "url": "https://api.ecoindex.fr/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.ecoindex.fr.ico",
     "slug": "ecoindex-fr-backend-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.26%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "86.56%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "86.55%",
     "uptimeMonth": "96.22%",
     "uptimeYear": "96.74%",
-    "time": 2530,
-    "timeDay": 1709,
-    "timeWeek": 8091,
-    "timeMonth": 4192,
-    "timeYear": 2477,
+    "time": 2585,
+    "timeDay": 30609,
+    "timeWeek": 11323,
+    "timeMonth": 5013,
+    "timeYear": 2543,
     "dailyMinutesDown": {
       "2025-06-20": 821,
       "2025-06-19": 1440,
@@ -187,7 +189,8 @@
       "2026-05-20": 297,
       "2026-05-19": 2,
       "2026-05-29": 648,
-      "2026-05-28": 707
+      "2026-05-28": 707,
+      "2026-06-03": 0
     }
   }
 ]
