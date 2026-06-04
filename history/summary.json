@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ecoindex.fr.ico",
     "slug": "ecoindex-fr-website",
     "status": "down",
-    "uptime": "98.79%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "86.34%",
-    "uptimeMonth": "96.15%",
-    "uptimeYear": "98.13%",
+    "uptime": "98.78%",
+    "uptimeDay": "95.60%",
+    "uptimeWeek": "85.82%",
+    "uptimeMonth": "96.03%",
+    "uptimeYear": "98.12%",
     "time": 1688,
     "timeDay": 30422,
     "timeWeek": 12422,
@@ -47,7 +47,8 @@
       "2026-05-19": 13,
       "2026-05-29": 648,
       "2026-05-28": 718,
-      "2026-06-03": 11
+      "2026-06-04": 36,
+      "2026-06-03": 28
     }
   },
   {
@@ -57,10 +58,10 @@
     "slug": "ecoindex-fr-back-for-front",
     "status": "down",
     "uptime": "98.04%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "86.52%",
-    "uptimeMonth": "96.09%",
-    "uptimeYear": "93.44%",
+    "uptimeDay": "96.24%",
+    "uptimeWeek": "86.00%",
+    "uptimeMonth": "95.97%",
+    "uptimeYear": "93.43%",
     "time": 1327,
     "timeDay": 0,
     "timeWeek": 741,
@@ -139,7 +140,8 @@
       "2026-05-19": 4,
       "2026-05-29": 648,
       "2026-05-28": 709,
-      "2026-06-03": 2
+      "2026-06-04": 36,
+      "2026-06-03": 18
     }
   },
   {
@@ -147,17 +149,17 @@
     "url": "https://api.ecoindex.fr/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.ecoindex.fr.ico",
     "slug": "ecoindex-fr-backend-api",
-    "status": "down",
-    "uptime": "98.26%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "86.55%",
-    "uptimeMonth": "96.22%",
-    "uptimeYear": "96.74%",
-    "time": 2585,
-    "timeDay": 30609,
-    "timeWeek": 11323,
-    "timeMonth": 5013,
-    "timeYear": 2543,
+    "status": "up",
+    "uptime": "98.25%",
+    "uptimeDay": "96.37%",
+    "uptimeWeek": "86.04%",
+    "uptimeMonth": "96.10%",
+    "uptimeYear": "96.73%",
+    "time": 2593,
+    "timeDay": 18058,
+    "timeWeek": 10742,
+    "timeMonth": 5026,
+    "timeYear": 2550,
     "dailyMinutesDown": {
       "2025-06-20": 821,
       "2025-06-19": 1440,
@@ -190,7 +192,8 @@
       "2026-05-19": 2,
       "2026-05-29": 648,
       "2026-05-28": 707,
-      "2026-06-03": 0
+      "2026-06-04": 36,
+      "2026-06-03": 16
     }
   }
 ]
