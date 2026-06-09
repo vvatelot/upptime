@@ -1,7 +1,7 @@
 url: https://www.ecoindex.fr
-status: down
-code: 503
-responseTime: 30359
-lastUpdated: 2026-06-08T23:26:18.870Z
+status: up
+code: 200
+responseTime: 951
+lastUpdated: 2026-06-09T20:32:23.256Z
 startTime: 2023-01-31T09:56:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
