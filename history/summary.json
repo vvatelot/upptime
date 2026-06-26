@@ -6,9 +6,9 @@
     "slug": "ecoindex-fr-website",
     "status": "down",
     "uptime": "98.68%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "91.66%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "91.64%",
     "uptimeYear": "97.81%",
     "time": 1829,
     "timeDay": 15706,
@@ -48,7 +48,7 @@
       "2026-06-03": 28,
       "2026-06-09": 1232,
       "2026-06-08": 918,
-      "2026-06-26": 11
+      "2026-06-26": 20
     }
   },
   {
@@ -58,9 +58,9 @@
     "slug": "ecoindex-fr-back-for-front",
     "status": "down",
     "uptime": "97.96%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "91.75%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "91.73%",
     "uptimeYear": "93.05%",
     "time": 1343,
     "timeDay": 863,
@@ -144,7 +144,7 @@
       "2026-06-03": 18,
       "2026-06-09": 1232,
       "2026-06-08": 909,
-      "2026-06-26": 2
+      "2026-06-26": 10
     }
   },
   {
@@ -154,10 +154,10 @@
     "slug": "ecoindex-fr-backend-api",
     "status": "down",
     "uptime": "98.16%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.90%",
-    "uptimeYear": "97.04%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "91.88%",
+    "uptimeYear": "97.03%",
     "time": 2801,
     "timeDay": 16073,
     "timeWeek": 5299,
@@ -195,7 +195,7 @@
       "2026-06-03": 16,
       "2026-06-09": 1233,
       "2026-06-08": 907,
-      "2026-06-26": 0
+      "2026-06-26": 9
     }
   }
 ]
