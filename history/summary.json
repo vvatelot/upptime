@@ -47,17 +47,17 @@
     "url": "https://bff.ecoindex.fr/health",
     "icon": "https://icons.duckduckgo.com/ip3/bff.ecoindex.fr.ico",
     "slug": "ecoindex-fr-back-for-front",
-    "status": "down",
-    "uptime": "97.75%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "92.85%",
-    "time": 871,
-    "timeDay": 506,
-    "timeWeek": 459,
-    "timeMonth": 508,
-    "timeYear": 847,
+    "status": "up",
+    "uptime": "97.73%",
+    "uptimeDay": "70.04%",
+    "uptimeWeek": "95.72%",
+    "uptimeMonth": "99.02%",
+    "uptimeYear": "92.77%",
+    "time": 870,
+    "timeDay": 466,
+    "timeWeek": 450,
+    "timeMonth": 504,
+    "timeYear": 846,
     "dailyMinutesDown": {
       "2025-11-12": 888,
       "2025-11-13": 148,
@@ -124,7 +124,7 @@
       "2026-07-11": 806,
       "2026-07-15": 508,
       "2026-07-14": 805,
-      "2026-10-07": 0
+      "2026-10-07": 431
     }
   },
   {
@@ -132,17 +132,17 @@
     "url": "https://api.ecoindex.fr/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.ecoindex.fr.ico",
     "slug": "ecoindex-fr-backend-api",
-    "status": "down",
-    "uptime": "97.94%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "96.71%",
-    "time": 2375,
-    "timeDay": 415,
-    "timeWeek": 473,
+    "status": "up",
+    "uptime": "97.92%",
+    "uptimeDay": "70.05%",
+    "uptimeWeek": "95.72%",
+    "uptimeMonth": "99.02%",
+    "uptimeYear": "96.63%",
+    "time": 2372,
+    "timeDay": 442,
+    "timeWeek": 475,
     "timeMonth": 495,
-    "timeYear": 2508,
+    "timeYear": 2503,
     "dailyMinutesDown": {
       "2025-11-12": 886,
       "2025-11-13": 130,
@@ -169,7 +169,7 @@
       "2026-07-11": 804,
       "2026-07-15": 508,
       "2026-07-14": 804,
-      "2026-10-07": 0
+      "2026-10-07": 431
     }
   }
 ]
