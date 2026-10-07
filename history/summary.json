@@ -47,15 +47,15 @@
     "url": "https://bff.ecoindex.fr/health",
     "icon": "https://icons.duckduckgo.com/ip3/bff.ecoindex.fr.ico",
     "slug": "ecoindex-fr-back-for-front",
-    "status": "up",
+    "status": "down",
     "uptime": "97.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.85%",
-    "time": 872,
-    "timeDay": 508,
-    "timeWeek": 452,
+    "time": 871,
+    "timeDay": 506,
+    "timeWeek": 459,
     "timeMonth": 508,
     "timeYear": 847,
     "dailyMinutesDown": {
@@ -123,7 +123,8 @@
       "2026-06-26": 1421,
       "2026-07-11": 806,
       "2026-07-15": 508,
-      "2026-07-14": 805
+      "2026-07-14": 805,
+      "2026-10-07": 0
     }
   },
   {
@@ -131,17 +132,17 @@
     "url": "https://api.ecoindex.fr/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.ecoindex.fr.ico",
     "slug": "ecoindex-fr-backend-api",
-    "status": "up",
+    "status": "down",
     "uptime": "97.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.71%",
-    "time": 2378,
-    "timeDay": 516,
-    "timeWeek": 495,
-    "timeMonth": 501,
-    "timeYear": 2514,
+    "time": 2375,
+    "timeDay": 415,
+    "timeWeek": 473,
+    "timeMonth": 495,
+    "timeYear": 2508,
     "dailyMinutesDown": {
       "2025-11-12": 886,
       "2025-11-13": 130,
@@ -167,7 +168,8 @@
       "2026-06-26": 1419,
       "2026-07-11": 804,
       "2026-07-15": 508,
-      "2026-07-14": 804
+      "2026-07-14": 804,
+      "2026-10-07": 0
     }
   }
 ]
